@@ -4,25 +4,35 @@
 
 ## **在线学习网站**
 
-[【官方】新概念英语第一册 (新东方)(霍娜)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOwRBJk5p13oYBlEF1MB953)
+新东方官方youtube账号koolearn注销了(大概注销时间是2024年6月), 然后又注册了一个新的账号https://www.youtube.com/@xdfstudio, 更新以下播放列表(2024-08-10)
 
-[【官方】新概念英语第二册 (新东方)(田静)(旧版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiNf2s8_pmXrnLjeL5Vdepbi)
+[【官方】新概念英语第一册 (新东方)(霍娜)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiNruBZbwb_pxGrACaklqwLJ)
 
-[【官方】新概念英语第二册 (新东方)(田静)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOSvEYiO2EzUBIux5M7VOqu)
+[【官方】新概念英语第二册 (新东方)(田静)(旧版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiPTo92wZ3WTVovkgbXqPC1o)
 
-[【官方】新概念英语第三册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiOxz8hkNkkCep9QAqpg2tcx)
+[【官方】新概念英语第二册 (新东方)(田静)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiPtc5XLGEVKZLPwwqzTiKSF)
 
-[【官方】新概念英语第四册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMnvR5it_yjRnGiM6YfwZ8d)
+[【官方】新概念英语第三册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiN5zjCSQTJKxDCHmIkhzLlM)
 
-[【官方】新概念英语第三册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMw-KFlqfupuIv8fNlsrood)
+[【官方】新概念英语第四册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiO2bDC7cWwGmaxPtRMSQgNT)
 
-[【官方】新概念英语第四册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiPminGdxNZSdMx3d6k4mSY_)
+[【官方】新概念英语第三册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMgexqhAjocpAkjjNFgkcVY)
+
+[【官方】新概念英语第四册 (新东方)(2016薛冰/史学冬)](https://www.youtube.com/playlist?list=PLK6q4vrvWZiMWmws-H6u6Yyrr5nvY7lzm)
 
 [新概念英语第二册 (刘飞飞)](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh3k4XoR6u_r1bhr_Vg00QyQ)
 
 [新概念英语第三册 (刘飞飞)](https://www.youtube.com/playlist?list=PL5YAbMpT3Nh1ho20sV0bpbLFzf6J9ygPV)
 
 ### **以下非官方地址可能会失效**
+
+[【非官方】新概念英语第一册 (新东方)(霍娜)(新版)](https://www.youtube.com/playlist?list=PL7QPSCAroBojgp9-X2Dv8gPpFhHLcqvKF)
+
+[【非官方】新概念英语第二册 (新东方)(田静)(新版)](https://www.youtube.com/playlist?list=PL7QPSCAroBog_u72arS00YtJDBX0bFnXa)
+
+[【非官方】新概念英语第三册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLGnHtEN8U57Oy9dLDwfvqUFH0IBH7p2S4)
+
+[【非官方】新概念英语第四册 (新东方)(李延隆)(新版)](https://www.youtube.com/playlist?list=PLGnHtEN8U57Mara3B8c9uFXP2cEd-vdoM)
 
 [【非官方】新概念英语第三册 (李延隆)](https://www.youtube.com/playlist?list=PL1pijTdUwLseVy85adDtGFNWgb2vS12d3)
 
@@ -70,15 +80,6 @@
 
 [https://ankiweb.net/shared/byauthor/565817692](https://ankiweb.net/shared/byauthor/565817692)
 
-### **单词记忆卡片**
-
-[Longman 3000 and Academic Words (English-Simplified Chinese)](https://ankiweb.net/shared/info/565817692)
-
-[新概念全四册单词](https://ankiweb.net/shared/info/2017522068)
-
-![单词记忆卡片](./img/anki_单词1_2.png)
-![单词记忆卡片](./img/anki_单词2_2.png)
-![单词记忆卡片](./img/anki_单词3_2.png)
 
 ### **课文记忆卡片**
 
@@ -90,6 +91,16 @@
 ![课文记忆卡片](./img/anki_课文2_2.png)
 ![课文记忆卡片](./img/anki_课文3_2.png)
 ![课文记忆卡片](./img/anki_课文4_2.png)
+
+
+### **单词记忆卡片**
+
+[Longman 3000 and Academic Words (English-Simplified Chinese)](https://ankiweb.net/shared/info/565817692)
+
+![单词记忆卡片](./img/anki_单词1_2.png)
+![单词记忆卡片](./img/anki_单词2_2.png)
+![单词记忆卡片](./img/anki_单词3_2.png)
+
 
 ### **一些常用的资料整理****进了一个excel文档**：《单词.xslx》
 
