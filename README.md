@@ -2,6 +2,8 @@
 
 本人是从2册开始学习的，学习过程中也整理和记录的一个有意义的学习资料，在此分享出来。
 
+大家也可以在本项目的[discussions](https://github.com/andylee1890/NewConceptEnglish/discussions)讨论区分享交流英语学习经验。
+
 ## **在线学习网站**
 
 新东方官方youtube账号koolearn注销了(大概注销时间是2024年6月), 然后又注册了一个新的账号https://www.youtube.com/@xdfstudio, 更新以下播放列表(2024-08-10)
