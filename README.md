@@ -109,5 +109,5 @@
 ![单词.xslx演示](./img/单词1_2.png)
 ![单词.xslx演示](./img/单词2_2.png)
 
-### 据说粘贴下面的地址可以获取免费的vps，我试试看
+### 据说粘贴下面的地址可以获取免费的vps，我试试看(经测试，是骗人的，用了没几天就锁定了)
 [![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
