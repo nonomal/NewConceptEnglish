@@ -34,27 +34,28 @@
 | Lesson30 | 完成 | 2022-03-03 |
 | Lesson31 | 完成 | 2023-02-08 |
 | Lesson32 | 完成 | 2023-02-08 |
-| Lesson33 | TODO |            |
-| Lesson34 | TODO |            |
-| Lesson35 | TODO |            |
-| Lesson36 | TODO |            |
-| Lesson37 | TODO |            |
-| Lesson38 | TODO |            |
-| Lesson39 | TODO |            |
-| Lesson40 | TODO |            |
-| Lesson41 | TODO |            |
-| Lesson42 | TODO |            |
-| Lesson43 | TODO |            |
-| Lesson44 | TODO |            |
-| Lesson45 | TODO |            |
-| Lesson46 | TODO |            |
-| Lesson47 | TODO |            |
-| Lesson48 | TODO |            |
+| Lesson33 | 完成 | 2026-08-13 |
+| Lesson34 | 完成 | 2026-08-13 |
+| Lesson35 | 完成 | 2026-08-13 |
+| Lesson36 | 完成 | 2026-08-13 |
+| Lesson37 | 完成 | 2026-08-13 |
+| Lesson38 | 完成 | 2026-08-13 |
+| Lesson39 | 完成 | 2026-08-13 |
+| Lesson40 | 完成 | 2026-08-13 |
+| Lesson41 | 完成 | 2026-08-13 |
+| Lesson42 | 完成 | 2026-08-13 |
+| Lesson43 | 完成 | 2026-08-13 |
+| Lesson44 | 完成 | 2026-08-13 |
+| Lesson45 | 完成 | 2026-08-13 |
+| Lesson46 | 完成 | 2026-08-13 |
+| Lesson47 | 完成 | 2026-08-13 |
+| Lesson48 | 完成 | 2026-08-13 |
 
 ## 说明
 
 * 2021-10-30，开始更新新概念4册的笔记，
 * 当前文档的样式格式是为了将笔记移植到anki时更方便，在anki上看起来更直观，两边保持协调统一。
+* 2026-08-13 一次性补全之前遗留的课程笔记
 
 ## Anki
 
