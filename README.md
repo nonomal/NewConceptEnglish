@@ -95,8 +95,8 @@
 | 卡组 | 内容 | 更新日期 | 版本 | 下载 |
 | --- | --- | --- | --- | --- |
 | NCE2 实践与进步 | 第二册课文逐句学习，配有中文理解、句型和完整笔记 | 2026-08-14 | `nce2-v1.0.2` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce2-v1.0.2/NCE2-Practice-and-Progress.apkg) |
-| NCE3 培养技能 | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-14 | `nce3-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.0/NCE3-Developing-Skills.apkg) |
-| NCE4 流利英语 | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-13 | `nce4-v1.0.0` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.0/NCE4-Fluency-in-English.apkg) |
+| NCE3 培养技能 | 第三册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-16 | `nce3-v1.0.1` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce3-v1.0.1/NCE3-Developing-Skills.apkg) |
+| NCE4 流利英语 | 第四册课文逐句学习与背诵，配有语法、词汇、表达和知识点笔记 | 2026-08-16 | `nce4-v1.0.1` | [下载 APKG](https://github.com/andylee1890/AnkiShare/releases/download/nce4-v1.0.1/NCE4-Fluency-in-English.apkg) |
 
 下载后请使用 Anki Desktop、AnkiMobile、AnkiDroid 或其他兼容 `.apkg` 格式的应用导入。需要查看所有版本和更新记录时，请前往 [AnkiShare Releases](https://github.com/andylee1890/AnkiShare/releases)。
 
